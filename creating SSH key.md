@@ -28,22 +28,22 @@ then this command is to copy the key to your clipboard\
  Finally you need to add the key to your account on github following this steps:\
 > ### click on the image icon at top right as on the image
  
-![Step1](image1.png)
+![image1](https://github.com/user-attachments/assets/7edb1f1a-aec7-403d-be16-ea21226cb198)
 
 > ### click on the 'settings' option
 
-![step2](next.png)
+![next](https://github.com/user-attachments/assets/c945fedb-7a25-4c01-97a7-4832496aec50)
 
 > ### take the 'SSH and GPG keys' option
 
-![step3](image2.png)
+![image2](https://github.com/user-attachments/assets/c6fc2ab7-4cef-4ee8-9fd4-e58a2a219fc6)
 
 > ### then click on 'New SSH key'
 
-![step4](image3.png)
+![image3](https://github.com/user-attachments/assets/f40e851b-2588-4a54-813e-d0af510cd292)
 
 > ### input a title name, then finally you use `ctrl v` to paste the key you copied using xclip command
 
-![step5](image4.png)
+![new3](https://github.com/user-attachments/assets/07720d4d-7fdc-400f-9a84-77c7afb109d9)
 
 > ### After that you press on Add SSH  key 

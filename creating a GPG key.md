@@ -11,23 +11,23 @@ To generate a GPG key, we use the command\
 assuming you have created the key and copied as indicated in the github-documentation, you need to add the key to your github account
 > ### click on the image icon at top right as on the image
  
-![Step1](image1.png)
+![image1](https://github.com/user-attachments/assets/15111644-9c12-44be-a4ac-c1cb7572112e)
 
 > ### click on the 'settings' option
 
-![step2](next.png)
+![next](https://github.com/user-attachments/assets/8f88e658-33a3-49f2-9f45-89967d6299db)
 
 > ### take the 'SSH and GPG keys' option
 
-![step3](image2.png)
+![image2](https://github.com/user-attachments/assets/68f4818f-2b8b-4b3c-8498-efad5ffb6e62)
 
 > ### then click on 'New GPG key'
 
-![step4](new2.png)
+![new2](https://github.com/user-attachments/assets/b35fc6b7-41fa-474b-8d3a-6347c3658f86)
 
 > ### input a title name, then finally you use `ctrl v` to paste the key you copied
 
-![step5](new3.png)
+![new3](https://github.com/user-attachments/assets/9bfa1aa1-7004-48bc-87b2-9a48471f1b17)
 
 > ### After that you press on Add GPG  key 
 

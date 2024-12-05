@@ -4,7 +4,7 @@ To generate a GPG key, we use the command\
  
 > ### you will get a prompt with steps to follow as shown below:
  
-![guide](new1.png)
+![new1](https://github.com/user-attachments/assets/88a7784e-0439-478e-9562-210c9adfef49)
 
 #### if you face any difficulty, can check this link for more details [generating GPG keys](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
 
